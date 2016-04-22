@@ -9,6 +9,15 @@ Images used:
 * normal rainbow: unattributed
 * "double" rainbow: Shanana Rocks, 8/01/2010
 * "full" rainbow: unattributed
+* 
+Controls:
+* next slide: spacebar
+* prev slide: backspace (Warning: not completely debugged will crash certain slides)
+* Some slides respond to mouse left-click (next phase of slide, increase raytrace depth),... and mouse right-click (increase reflection intensity)
+
+Have fun and break stuff,
+
+Frederik
 
 
 
