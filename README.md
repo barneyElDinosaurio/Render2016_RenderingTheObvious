@@ -9,7 +9,8 @@ Images used:
 * normal rainbow: unattributed
 * "double" rainbow: Shanana Rocks, 8/01/2010
 * "full" rainbow: unattributed
-* 
+ 
+
 Controls:
 * next slide: spacebar
 * prev slide: backspace (Warning: not completely debugged will crash certain slides)
