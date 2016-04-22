@@ -2,6 +2,7 @@
 Source code of my Render 2016 talk, a Java/Processing project in Eclipse 
 
 https://processing.org/
+https://eclipse.org/
 
 Human models and morphing targets from MakeHuman: http://www.makehuman.org/
 
